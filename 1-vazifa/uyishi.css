@@ -1,0 +1,17 @@
+.image
+{
+  position: absolute;
+  top: 10%;
+  left: 30%;
+}
+.button
+{
+  position: absolute;
+    top: 70%;
+  left: 37%;
+  width: 150px;
+  height: 60px;
+  border-radius: 10px;
+  border: 1px solid;
+  cursor: pointer;
+}
